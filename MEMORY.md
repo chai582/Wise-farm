@@ -1,0 +1,2 @@
+- [Phaser 4 container input bug](phaser-nested-container-input.md) — interactive children inside scrollFactor=0 containers never fire; use manual scene-level hit-testing instead.
+- [Phaser Scene reserved property names](phaser-scene-reserved-names.md) — `this.events` is Phaser.Scene's built-in event emitter; naming a custom field `events` silently shadows it.
